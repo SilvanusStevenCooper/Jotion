@@ -1,7 +1,6 @@
 "use client";
 
 import { Doc } from "@/convex/_generated/dataModel";
-import Document from "next/document";
 import React, { ElementRef, useRef, useState } from "react";
 import IconPicker from "./icon-picker";
 import { Button } from "./ui/button";
